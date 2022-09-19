@@ -1,0 +1,31 @@
+package com.scoqu.lasw.egasy.data.remote.dto.weather
+
+data class Value(
+    val cape: Double,
+    val cin: Double,
+    val cloudcover: Double,
+    val conditions: String,
+    val datetime: Long,
+    val datetimeStr: String,
+    val dew: Double,
+    val heatindex: Any,
+    val humidity: Double,
+    val maxt: Double,
+    val mint: Double,
+    val pop: Double,
+    val precip: Double,
+    val preciptype: String,
+    val sealevelpressure: Double,
+    val severerisk: Double,
+    val snow: Int,
+    val snowdepth: Int,
+    val solarenergy: Double,
+    val solarradiation: Double,
+    val temp: Double,
+    val uvindex: Double,
+    val visibility: Double,
+    val wdir: Double,
+    val wgust: Double,
+    val windchill: Any,
+    val wspd: Double
+)

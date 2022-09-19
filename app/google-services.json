@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275717841014",
+    "project_id": "clasikocosm",
+    "storage_bucket": "clasikocosm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275717841014:android:336b5363b421f734b27f57",
+        "android_client_info": {
+          "package_name": "com.scoqu.lasw.egasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275717841014-m2b4ecbnc981hog1hgf8o1rs0ihn0pft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-wv8qMlxp38b2WmFItscTQ9zLFL41uUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275717841014-m2b4ecbnc981hog1hgf8o1rs0ihn0pft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
